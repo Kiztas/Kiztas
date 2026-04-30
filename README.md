@@ -1,41 +1,82 @@
-<h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲!</h1>
+<h1 align="center">Hey 👋 I'm Ariano Costa</h1>
+<h3 align="center">💻 Aspiring Software Developer | 🎮 Gamer | 🍥 Anime Lover</h3>
 
-<div align="center">
-  <img src="https://i.imgur.com/9X04sZY.jpg" align="right">
-</div>
+<p align="center">
+   <img src="https://i.imgur.com/9X04sZY.jpg" width="250"/>
+</p>
 
-📖 You can ask me about tech and some games! :) <br>
-💡 I am current learning C++ javascript and python <br>
-📠 Here is my discord: inaciozinhogira,  if you want contact me! <br>
-🤖 You can also talk to me about anime if you want, I'm a big enthusiast. <br>
-  <div align="center">
-  <!--img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-WBbI8m0gKWCJthpJlmfxYVuL-1Co5QEuQ&usqp=CAU" align="right"-->
-  </div>
-  
-  <br>
+---
 
+## 🚀 About Me
 
-<h1 align="center">𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!</h1>
-  <div align="center">
-<img src="[https://im2.ezgif.com/tmp/ezgif-2-5b4684c451.gif](https://i.gifer.com/EofK.gif)" align="right">
-  </div>
-<li>
-<b>Name:</b> Kiztas <br>
-</li>
-<li>
-<b>Loves:</b> Tech, Anime, Games <br>
-</li>
-<li>
- <b>Stacks:</b> C++ ... <br>
-</li>
-<li>
-<b>Learning:</b> C++ <br> <br>
-</li>
+- 🎓 Currently studying **Programming**
+- 💡 Passionate about **Technology, Games & Anime**
+- 🎯 Goal: Become a **Professional Developer**
+- 🎂 19 years old
 
-<div>
-<a href="https://github.com/Kiztas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K1ztas&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 60%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ztas&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 60%;">
-</a>
-</div>
+---
 
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kiztas&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiztas&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kiztas&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Socials
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://www.youtube.com/@Kiztas" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube">
+  </a>
+
+  <a href="https://www.instagram.com/satzik.priv" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
+  </a>
+
+  <a href="https://discord.gg/kiztas" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord">
+  </a>
+
+  <a href="mailto:fortniteacc7772@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/Kiztas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+---
+
+## ⚡ Fun Fact
+
+> "I live between code, anime worlds and games 🎮"
+
+---
+
+<p align="center">
+  ⭐ From <b>Ariano Costa</b>
+</p>
