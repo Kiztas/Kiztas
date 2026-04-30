@@ -5,8 +5,8 @@
 </div>
 
 📖 You can ask me about tech and some games! :) <br>
-💡 I am current learning C++ <br>
-📠 Here is my discord: Kiztas#6804,  if you want contact me! <br>
+💡 I am current learning C++ javascript and python <br>
+📠 Here is my discord: inaciozinhogira,  if you want contact me! <br>
 🤖 You can also talk to me about anime if you want, I'm a big enthusiast. <br>
   <div align="center">
   <!--img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-WBbI8m0gKWCJthpJlmfxYVuL-1Co5QEuQ&usqp=CAU" align="right"-->
@@ -33,7 +33,7 @@
 </li>
 
 <div>
-<a href="https://github.com/K1ztas">
+<a href="https://github.com/Kiztas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K1ztas&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 60%;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ztas&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 60%;">
 </a>
