@@ -43,8 +43,6 @@
 
 ## 🌐 Socials
 
-## 🌐 Socials
-
 <p align="center">
   <a href="https://www.youtube.com/@Kiztas" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube">
