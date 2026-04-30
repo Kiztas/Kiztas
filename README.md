@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲!</h1>
 
-<!--
-**Kiztas/Kiztas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://i.imgur.com/9X04sZY.jpg" align="right">
+</div>
 
-Here are some ideas to get you started:
+📖 You can ask me about tech and some games! :) <br>
+💡 I am current learning C++ <br>
+📠 Here is my discord: Kiztas#6804,  if you want contact me! <br>
+🤖 You can also talk to me about anime if you want, I'm a big enthusiast. <br>
+  <div align="center">
+  <!--img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-WBbI8m0gKWCJthpJlmfxYVuL-1Co5QEuQ&usqp=CAU" align="right"-->
+  </div>
+  
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 align="center">𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!</h1>
+  <div align="center">
+<img src="[https://im2.ezgif.com/tmp/ezgif-2-5b4684c451.gif](https://i.gifer.com/EofK.gif)" align="right">
+  </div>
+<li>
+<b>Name:</b> Kiztas <br>
+</li>
+<li>
+<b>Loves:</b> Tech, Anime, Games <br>
+</li>
+<li>
+ <b>Stacks:</b> C++ ... <br>
+</li>
+<li>
+<b>Learning:</b> C++ <br> <br>
+</li>
+
+<div>
+<a href="https://github.com/K1ztas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K1ztas&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 60%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ztas&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 60%;">
+</a>
+</div>
+
